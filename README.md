@@ -46,6 +46,8 @@
   [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 </div>
 
+<hr>
+
 <div align="center">
   <h3>Studying in this moment:</h3>
   
